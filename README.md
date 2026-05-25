@@ -14,7 +14,7 @@ Fase 4 simula un entorno real de PYME (pequeña y mediana empresa) mediante prue
 
 1. **Simular tráfico real:** Crear escenarios de carga basados en datos de pymes.
 2. **Validar WAF:** Evaluar comportamiento bajo diferentes cargas
-3. **Medir rendimiento:** Medir consumo de CPU y RAM.
+3. **Medir rendimiento:** Analizar consumo de CPU y RAM.
 
 ---
 ## Estructura del repositorio
