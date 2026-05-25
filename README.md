@@ -155,12 +155,11 @@ python3 /scripts/monitoring/visualization/graph.py
 - [Locust GitHub](https://github.com/locustio/locust)
 
 ### Investigación Tráfico
-- [HubSpot 2023 Survey](https://blog.hubspot.com/)
-- [ConvertCart 2024](https://convertcart.com/)
-- [DashThis Analytics](https://dashthis.com/)
+- [HubSpot 2023 Survey](https://blog.hubspot.com/blog/tabid/6307/bid/5092/how-many-visitors-should-your-site-get.aspx)
+- [ConvertCart 2024](https://www.convertcart.com/blog/how-to-increase-average-session-time)
+- [DashThis Analytics](https://es.dashthis.com/kpi-examples/average-session-duration/)
 
 ### Teoría de Colas
-- [Ley de Little Wikipedia](https://en.wikipedia.org/wiki/Little%27s_law)
-- [Graves & Little Papers](https://scholar.google.com/)
+- [Ley de Little](https://web.eng.ucsd.edu/~massimo/ECE158A/Handouts_files/Little.pdf)
 
 ---
