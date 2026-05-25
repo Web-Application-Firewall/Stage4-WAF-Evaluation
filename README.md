@@ -1,4 +1,4 @@
-# Fase 4: Pruebas de Carga en Entorno Simulado de pyme
+# Fase 4: Implementación de un entorno simulado de una pyme
 
 **Autores:** Lina María Andrade Gómez, Juan José Barrera Gracia, Andrés Mauricio Mesa Franco  
 
