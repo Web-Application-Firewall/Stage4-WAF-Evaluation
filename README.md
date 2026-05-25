@@ -6,7 +6,7 @@
 
 ## Descripción General
 
-Fase 4 simula un entorno real de PYME (pequeña y mediana empresa) mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
+La fase 4 simula un entorno real de PYME (pequeña y mediana empresa) mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
 
 ---
 
