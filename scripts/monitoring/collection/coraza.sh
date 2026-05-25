@@ -1,0 +1,1 @@
+pidstat -u -r -p <PID> 2 > coraza_stats.txt
