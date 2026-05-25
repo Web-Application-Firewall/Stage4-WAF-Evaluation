@@ -1,4 +1,4 @@
-# Fase 4: Pruebas de Carga en Entorno Simulado de PYME
+# Fase 4: Pruebas de Carga en Entorno Simulado de pyme
 
 **Autores:** Lina María Andrade Gómez, Juan José Barrera Gracia, Andrés Mauricio Mesa Franco  
 
@@ -6,7 +6,7 @@
 
 ## Descripción General
 
-La fase 4 simula un entorno real de PYME (pequeña y mediana empresa) mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
+La fase 4 simula un entorno real de pyme mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
 
 ---
 
@@ -66,7 +66,7 @@ Uc = 0.45 × 4 = 1.8 ≈ 2 usuarios concurrentes
 
 ## Conceptos Clave
 
-### Tráfico en PYMEs Colombianas
+### Tráfico en pymes Colombianas
 
 **Fuentes:**
 - HubSpot 2023: Encuesta sobre distribución de tráfico en empresas estadounidenses
