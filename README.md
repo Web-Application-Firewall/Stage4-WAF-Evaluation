@@ -25,16 +25,21 @@ Stage4-WAF-Evaluation/
 ├── docs/
 │   └── DocumentacionFaseIV.pdf
 │
-└── scripts/
-    ├── load_traffic/
-    │   └── locustfile.py
+├── load_traffic/
+│   └── locustfile.py
+│
+└── monitoring/
+    ├── results/
+    │   ├── high_scenary.png
+    │   ├── low_scenary.png
+    │   └── medium_scenary.png
     │
-    └── monitoring/
-        ├── visualization/
-        │   └── graph.py
-        │
+    └── scripts/
         └── collection/
-            └── coraza.sh
+        │    └── coraza.sh
+        │
+        └── visualization/
+             └── graph.py 
 ````
 
 ## Fundamentos Matemáticos
