@@ -35,7 +35,7 @@ Stage4-WAF-Evaluation/
     │   └── medium_scenary.png
     │
     └── scripts/
-        └── collection/
+        ├── collection/
         │    └── coraza.sh
         │
         └── visualization/
