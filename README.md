@@ -4,7 +4,7 @@
 
 ---
 
-## Descripción General
+## Descripción general
 
 La fase 4 simula un entorno real de pyme mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
 
@@ -42,7 +42,7 @@ Stage4-WAF-Evaluation/
              └── graph.py 
 ````
 
-## Fundamentos Matemáticos
+## Fundamentos matemáticos
 
 ### Ley de Little
 
@@ -69,9 +69,9 @@ Uc = 0.45 × 4 = 1.8 ≈ 2 usuarios concurrentes
 
 ---
 
-## Conceptos Clave
+## Conceptos clave
 
-### Tráfico en pymes Colombianas
+### Tráfico en pymes colombianas
 
 **Fuentes:**
 - HubSpot 2023: Encuesta sobre distribución de tráfico en empresas estadounidenses
@@ -90,7 +90,7 @@ Uc = 0.45 × 4 = 1.8 ≈ 2 usuarios concurrentes
 
 ---
 
-## Endpoints Utilizados
+## Endpoints utilizados
 
 Se usan **8 endpoints** de DVWA (SQLi y Comand Inj. cuentan con endpoint GET y POST):
 
