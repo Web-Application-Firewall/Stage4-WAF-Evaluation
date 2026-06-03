@@ -6,7 +6,7 @@
 
 ## Descripción general
 
-La fase 4 simula un entorno real de pyme mediante pruebas de carga con Locust. Se crean tres escenarios realistas basados en datos de tráfico de empresas colombianas e internacionales, validando el comportamiento del WAF bajo diferentes cargas.
+La fase cuatro del estudio de selección y evaluación de WAFs para entornos pyme, valida el comportamiento de Coraza bajo condiciones de tráfico mixto — legítimo y malicioso — en tres escenarios de carga progresiva (bajo, medio y alto) fundamentados bajo estimaciones de tráfico web empresarial y la Ley de Little. El tráfico legítimo fue generado con Locust y los ataques bajo tráfico malicioso realizados con GoTestWaf, ambos sobre los endpoints vulnerables de DVWA. El análisis se centra en el consumo de CPU y memoria bajo cada escenario. La documentación detallada se encuentra en *docs/AnexoC.pdf*.
 
 ---
 
