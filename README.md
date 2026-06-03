@@ -23,7 +23,7 @@ La fase 4 simula un entorno real de pyme mediante pruebas de carga con Locust. S
 Stage4-WAF-Evaluation/
 │
 ├── docs/
-│   └── DocumentacionFaseIV.pdf
+│   └── AnexoC.pdf
 │
 ├── load_traffic/
 │   └── locustfile.py
